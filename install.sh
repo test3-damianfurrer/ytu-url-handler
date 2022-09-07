@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 wpath=$(pwd -P | sed 's/\//\\\//g')
 for f in *
 do
