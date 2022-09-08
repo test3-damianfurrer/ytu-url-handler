@@ -4,3 +4,4 @@ Name=Youtube URL Handler
 Exec={path}/openyturl.sh %u
 StartupNotify=false
 MimeType=x-scheme-handler/ytu;
+NoDisplay=true
